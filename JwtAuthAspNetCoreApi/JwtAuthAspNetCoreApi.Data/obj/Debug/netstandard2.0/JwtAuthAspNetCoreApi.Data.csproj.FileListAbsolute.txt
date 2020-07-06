@@ -1,0 +1,12 @@
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.deps.json
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.pdb
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.pdb
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.csprojAssemblyReference.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.csproj.CoreCompileInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.AssemblyInfoInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.AssemblyInfo.cs
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.csproj.CopyComplete
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Data\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Data.pdb

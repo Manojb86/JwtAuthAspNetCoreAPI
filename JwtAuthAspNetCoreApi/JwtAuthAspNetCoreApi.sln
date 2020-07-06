@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthAspNetCoreApi", "JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.csproj", "{B413D687-D649-4262-9057-0225E77879C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthAspNetCoreApi.Data", "JwtAuthAspNetCoreApi.Data\JwtAuthAspNetCoreApi.Data.csproj", "{62C73F84-6398-43F2-8B91-114438798501}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtAuthAspNetCoreApi.Models", "JwtAuthAspNetCoreApi.Models\JwtAuthAspNetCoreApi.Models.csproj", "{43F9A7C9-2CF0-42A0-B528-F5B17CE0E942}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B413D687-D649-4262-9057-0225E77879C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B413D687-D649-4262-9057-0225E77879C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B413D687-D649-4262-9057-0225E77879C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B413D687-D649-4262-9057-0225E77879C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62C73F84-6398-43F2-8B91-114438798501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C73F84-6398-43F2-8B91-114438798501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C73F84-6398-43F2-8B91-114438798501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C73F84-6398-43F2-8B91-114438798501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F9A7C9-2CF0-42A0-B528-F5B17CE0E942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F9A7C9-2CF0-42A0-B528-F5B17CE0E942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F9A7C9-2CF0-42A0-B528-F5B17CE0E942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F9A7C9-2CF0-42A0-B528-F5B17CE0E942}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6BDDB5-FC05-4516-9D25-B3C575E3B9D6}
+	EndGlobalSection
+EndGlobal

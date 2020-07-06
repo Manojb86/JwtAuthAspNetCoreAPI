@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oSn3bkYz4wlK0KkxIwXsYWPAbcfBComTQCJzZ/YIfZKxR/g7YMLv4b871A1IkeHWGjWaoaeOQ4HoGk9UHKddFQ==",
+  "success": true,
+  "projectFilePath": "C:\\A_DRIVE\\Dev_Stuff\\POC\\GitHubRepo\\JwtAuthAspNetCoreAPI\\JwtAuthAspNetCoreApi\\JwtAuthAspNetCoreApi.Models\\JwtAuthAspNetCoreApi.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manoj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\manoj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

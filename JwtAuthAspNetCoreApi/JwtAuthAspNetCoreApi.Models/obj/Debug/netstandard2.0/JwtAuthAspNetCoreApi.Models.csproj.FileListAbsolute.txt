@@ -1,0 +1,8 @@
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.deps.json
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\bin\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.pdb
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.csproj.CoreCompileInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.AssemblyInfoInputs.cache
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.AssemblyInfo.cs
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi.Models\obj\Debug\netstandard2.0\JwtAuthAspNetCoreApi.Models.pdb
