@@ -7,6 +7,7 @@ C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\Jw
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\JwtAuthAspNetCoreApi.runtimeconfig.dev.json
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\JwtAuthAspNetCoreApi.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\JwtAuthAspNetCoreApi.pdb
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
@@ -33,6 +34,11 @@ C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\Jw
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
@@ -51,6 +57,7 @@ C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\Jw
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
 C:\A_DRIVE\Dev_Stuff\POC\GitHubRepo\JwtAuthAspNetCoreAPI\JwtAuthAspNetCoreApi\JwtAuthAspNetCoreApi\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
